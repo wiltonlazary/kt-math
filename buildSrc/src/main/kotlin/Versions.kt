@@ -14,7 +14,7 @@ import org.gradle.plugin.use.PluginDependencySpec
 object Versions {
     const val org_jetbrains_kotlin: String = "1.3.61"
 
-    const val org_jetbrains_kotlin_multiplatform_gradle_plugin: String = "1.3.61"
+    const val org_jetbrains_kotlin_multiplatform_gradle_plugin: String = "1.3.70"
 
     const val de_fayard_buildsrcversions_gradle_plugin: String = "0.7.0"
 
